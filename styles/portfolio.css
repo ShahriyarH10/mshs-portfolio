@@ -45,6 +45,7 @@ nav {
     font-family: Open Sans;
     font-size: 45px;
     font-weight: 800;
+    margin-left: 150px;
 }
 
 nav > ul {
@@ -64,7 +65,6 @@ nav a {
 
 /* header related styles */
 .header {
-    background-color: #FFF8F3;
     background-color: #FFF8F3;
     background-image: url('../images/header_bg.png');
     background-repeat: no-repeat;
@@ -170,4 +170,11 @@ main {
 .download-cv {
     text-align: center;
     margin-top: 50px;
+}
+
+/* footer styles */
+footer {
+    display: flex;
+    background: #FFF8F3;
+    padding: 130px 200px;
 }
