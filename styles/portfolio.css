@@ -120,6 +120,7 @@ main {
 
 .skills-container {
     display: flex;
+    gap: 20px;
 }
 
 .skill {
@@ -181,7 +182,10 @@ footer {
     padding: 130px 200px;
 }
 
-.section-title {
+.section-title-footer {
+    color: #181818;
+    font-size: 35px;
+    font-weight: 700;
     text-align: left;
 }
 
